@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-(Ta version locale du README)
-=======
+
 
 # jsonforms-challenge
 
@@ -82,8 +80,8 @@ Cela a permis d'utiliser `materialRenderers` et `materialCells` en complément d
 
 ## Déploiement du projet
 
-Le projet sera déployé sur **CodeSandbox**. Une fois le déploiement terminé, le lien sera ajouté ici pour accéder à la démonstration en ligne.
+Le projet sera déployé sur **CodeSandbox**.
 
 ---
 
-> > > > > > > 3b65b9f (Initial commit du projet JSONForms)
+
