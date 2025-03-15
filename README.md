@@ -1,9 +1,5 @@
 
 
-# jsonforms-challenge
-
-=======
-
 # JSONForms avec Ant Design et ProLayout
 
 Ce projet implémente un **formulaire dynamique en React** utilisant **JSONForms**, **Ant Design**, et **ProLayout**. Il permet de générer automatiquement des formulaires à partir de schémas JSON et affiche une catégorisation personnalisée via un **Drawer latéral**.
