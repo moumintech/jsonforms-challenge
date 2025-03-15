@@ -38,7 +38,7 @@ build/
 .cache/
 .eslintcache
 
-# Environnements sensibles
+#
 .env
 .env.local
 .env.development
