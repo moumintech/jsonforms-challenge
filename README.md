@@ -12,28 +12,12 @@ Ce projet implémente un **formulaire dynamique en React** utilisant **JSONForms
   - **Vos Informations Personnelles** (3 sous-catégories)
   - **Votre Parcours Professionnel** (2 sous-catégories)
 - Custom Renderer pour JSONForms permettant d'afficher les formulaires selon la catégorie sélectionnée
-- Données sauvegardées localement avec `localStorage` pour ne pas les perdre au rafraîchissement
+
 - Icônes personnalisées pour les catégories dans le Drawer
 
 ---
 
-## Dépendances Utilisées
 
-Le projet utilise les bibliothèques suivantes :
-
-```json
-"dependencies": {
-  "react": "^18.0.0",
-  "react-dom": "^18.0.0",
-  "@jsonforms/react": "^3.0.0",
-  "@jsonforms/core": "^3.0.0",
-  "@jsonforms/antd": "^3.0.0",
-  "antd": "^5.0.0",
-  "@ant-design/icons": "^5.0.0",
-  "@ant-design/pro-layout": "^6.0.0",
-  "@jsonforms/material-renderers": "^3.0.0"
-}
-```
 
 ---
 
